@@ -38,7 +38,8 @@ PhoneDirectory/
 1. Open the project folder.
 2. Run `main.py`.
 3. Choose an option from the menu.
-4. Contacts are stored in `contacts.txt`.
+4. if error occurs then type cd "phonebook-directory-main" in terminal
+5. then type python main.py
 
 ## Author
 
